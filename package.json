@@ -1,0 +1,26 @@
+{
+  "name": "express-onepiecedb",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Suhong-study/express-OnepieceDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suhong-study/express-OnepieceDB/issues"
+  },
+  "homepage": "https://github.com/Suhong-study/express-OnepieceDB#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1"
+  }
+}
